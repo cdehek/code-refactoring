@@ -1,0 +1,1 @@
+Code Refactoring for class
